@@ -1,5 +1,5 @@
 
-// Fes un programa que demani el nom i l’edat i mostri un missatge de benvinguda. (1) demana el nom. (2) demana l’edat (3) mostra un missatge com a l’exemple. La sortida del programa ha de ser exactament igual a la proposada:
+// 3- Fes un programa que demani el nom i l’edat i mostri un missatge de benvinguda. (1) demana el nom. (2) demana l’edat (3) mostra un missatge com a l’exemple. La sortida del programa ha de ser exactament igual a la proposada:
 //
 // Hola. Com et dius? Pere
 //
@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class ScannerNeu02{
+public class Consola1_3{
 
   public static void main(String[] args){
 

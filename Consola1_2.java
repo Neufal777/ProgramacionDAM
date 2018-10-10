@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class ScannerNeu01{
+public class Consola1_2{
 
   public static void main(String[] args){
 
@@ -18,7 +18,7 @@ public class ScannerNeu01{
     Scanner valorArebre = new Scanner(System.in);
 
     System.out.println("Valor en celsius : ");
-    
+
     celsius = valorArebre.nextDouble();
 
     //aqui farem la conversio a farenheits

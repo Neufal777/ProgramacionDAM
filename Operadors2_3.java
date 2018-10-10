@@ -1,4 +1,4 @@
-public class Exne{
+public class Operadors2_3{
 
   public static void main(String[] args){
       //Crea variables anomenades hora, minut i segon i assigna a cadascuna els valors corresponents a l’hora actual.
